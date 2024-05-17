@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>CoinFlip Game</title>
+    <link rel="icon" type="image/GIF" href="res/logo.png"/>
+
+    <meta name="viewport"
+        content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1"/>
+
+    <!--https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html-->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- force webkit on 360 -->
+    <meta name="renderer" content="webkit"/>
+    <meta name="force-rendering" content="webkit"/>
+    <!-- force edge on IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="msapplication-tap-highlight" content="no">
+
+    <!-- force full screen on some browser -->
+    <meta name="full-screen" content="yes"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+
+    <!-- force screen orientation on some browser -->
+    <!-- <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-orientation" content="portrait"> -->
+
+    <meta name="browsermode" content="application">
+    <meta name="x5-page-mode" content="app">
+
+<style type="text/css">
+html {
+  -ms-touch-action: none;
+}
+
+body, canvas, div {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  margin: 0;
+
+  cursor: default;
+  color: #888;
+  background-color: #333;
+    /*background-image: url("res/bg.png");*/
+
+  text-align: center;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+
+  display: flex;
+  flex-direction: column;
+}
+
+#appbg {
+    background-size: cover;
+}
+
+.fadeImage {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    position: fixed;
+    -webkit-animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -ms-animation: fadein 3s;
+    -o-animation: fadein 3s;
+    animation: fadein 3s;
+}
+
+#Cocos2dGameContainer {
+  position: absolute;
+  margin: 0;
+  overflow: hidden;
+  left: 0px;
+  top: 0px;
+
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+    -webkit-box-shadow: 0px 0px 30px 12px rgba(0,0,0,0.8);
+    -moz-box-shadow: 0px 0px 30px 12px rgba(0,0,0,0.8);
+    box-shadow: 0px 0px 30px 12px rgba(0,0,0,0.8);
+    height: auto !important;
+}
+
+canvas {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+/* style the elements with CSS */
+/*#pleaserotate-graphic{*/
+/*    fill: #fff;*/
+/*}*/
+
+/*#pleaserotate-backdrop {*/
+/*    color: #fff;*/
+/*    background-color: #000;*/
+/*}*/
+</style>
+</head>
+<body>
+<!--<script src="res/loading.js"></script>-->
+<!--<div id="appbg" class="fadeImage" style="background-image: url('res/common/BG_noLogo.jpg');"></div>-->
+<!-- <script src="res/web3/dist/web3.min.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+<canvas id="gameCanvas" width="480" height="720"></canvas>
+
+<script cocos src="game.min.js?v=0.1.10"></script>
+
+<script>
+    /* you can pass in options here */
+    // var PleaseRotateOptions = {
+    //     startOnPageLoad: true,
+    //     onHide: function(){},
+    //     onShow: function(){},
+    //     forcePortrait: false,
+    //     message: "Please Rotate Your Device",
+    //     subMessage: "(or click to continue)",
+    //     allowClickBypass: true,
+    //     onlyMobile: true,
+    //     zIndex: 1000,
+    //     iconNode: null
+    // };
+    // var canvas = document.getElementById("gameCanvas").childNodes[0].childNodes[0];
+    // var gl = canvas.getContext("webgl");
+    // var WEBGL_lose_context = gl.getExtension('WEBGL_lose_context');
+    // WEBGL_lose_context.loseContext();
+    //
+    // window.setTimeout(function(){
+    //     WEBGL_lose_context.restoreContext();
+    // }, 1000);
+</script>
+<!--<script src="pleaserotate.js"></script>-->
+</body>
+</html>

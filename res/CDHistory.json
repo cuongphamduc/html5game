@@ -1,0 +1,743 @@
+{
+  "ID": "4240f05b-5f74-46e8-97d5-ba6df0d40a55",
+  "Version": "2.3.4",
+  "Name": "CDHistory",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BomTanImg/Popup/board.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 368,
+            "Scale9OriginY": 227,
+            "Scale9Width": 381,
+            "Scale9Height": 236,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.8727,
+              "Y": 0.9583
+            },
+            "LeftMargin": 81.5,
+            "RightMargin": 81.5,
+            "TopMargin": 15.0,
+            "BottomMargin": 15.0,
+            "Tag": 53,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "BomTanImg/Popup/text_lsgiaodich.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 131,
+                "Scale9OriginY": 16,
+                "Scale9Width": 159,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 558.5001,
+                  "Y": 628.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9101
+                },
+                "PreSize": {
+                  "X": 0.3769,
+                  "Y": 0.0812
+                },
+                "LeftMargin": 348.0001,
+                "RightMargin": 347.9999,
+                "TopMargin": 33.9999,
+                "BottomMargin": 600.0001,
+                "Tag": 54,
+                "ActionTag": -2090275982,
+                "Size": {
+                  "X": 421.0,
+                  "Y": 56.0
+                },
+                "Name": "imgTitle",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "BomTanImg/Popup/btn_close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1081.256,
+                  "Y": 658.74
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.968,
+                  "Y": 0.9547
+                },
+                "PreSize": {
+                  "X": 0.0627,
+                  "Y": 0.1
+                },
+                "LeftMargin": 1046.256,
+                "RightMargin": 0.744,
+                "TopMargin": -3.24,
+                "BottomMargin": 624.24,
+                "Tag": 55,
+                "ActionTag": 1518134739,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 69.0
+                },
+                "Name": "btnClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "BomTanImg/Popup/khung.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 295,
+                "Scale9OriginY": 149,
+                "Scale9Width": 305,
+                "Scale9Height": 156,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 558.5,
+                  "Y": 305.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4435
+                },
+                "PreSize": {
+                  "X": 0.8013,
+                  "Y": 0.658
+                },
+                "LeftMargin": 111.0,
+                "RightMargin": 111.0,
+                "TopMargin": 157.001,
+                "BottomMargin": 78.999,
+                "Tag": 57,
+                "ActionTag": 1510308844,
+                "Size": {
+                  "X": 895.0,
+                  "Y": 454.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "HorizontalType": "Align_HorizontalCenter",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 558.5,
+                  "Y": 286.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4159
+                },
+                "PreSize": {
+                  "X": 0.8013,
+                  "Y": 0.5942
+                },
+                "LeftMargin": 111.0,
+                "RightMargin": 111.0,
+                "TopMargin": 198.0002,
+                "BottomMargin": 81.9998,
+                "Tag": 58,
+                "ActionTag": 1141257956,
+                "Size": {
+                  "X": 895.0,
+                  "Y": 410.0
+                },
+                "Name": "lvHonor",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 558.5,
+                  "Y": 508
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7449
+                },
+                "PreSize": {
+                  "X": 0.7968,
+                  "Y": 0.0507
+                },
+                "LeftMargin": 113.5,
+                "RightMargin": 113.5,
+                "TopMargin": 158.4999,
+                "BottomMargin": 496.5001,
+                "Tag": 59,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 20,
+                    "LabelText": "TxID",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/UTM Avo.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80,
+                      "Y": 17.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 255,
+                      "G": 255,
+                      "B": 255
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1011,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0663,
+                      "Y": 0.7714
+                    },
+                    "LeftMargin": 60.5,
+                    "RightMargin": 770.5,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 60,
+                    "ActionTag": -38155699,
+                    "Size": {
+                      "X": 200,
+                      "Y": 27.0
+                    },
+                    "Alpha": 229,
+                    "Name": "lblTurn",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 20,
+                    "LabelText": "TIME",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTM Avo.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 300.0,
+                      "Y": 17.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 255,
+                      "G": 255,
+                      "B": 255
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3258,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.118,
+                      "Y": 0.7714
+                    },
+                    "LeftMargin": 237.5,
+                    "RightMargin": 547.5,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 61,
+                    "ActionTag": 1785499929,
+                    "Size": {
+                      "X": 200,
+                      "Y": 27.0
+                    },
+                    "Name": "lblTime",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 20,
+                    "LabelText": "EFIH BET",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTM Avo.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 450.0,
+                      "Y": 17.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 255,
+                      "G": 255,
+                      "B": 255
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5393,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1022,
+                      "Y": 0.7714
+                    },
+                    "LeftMargin": 434.5,
+                    "RightMargin": 364.5,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 62,
+                    "ActionTag": -1162633822,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 27.0
+                    },
+                    "Alpha": 229,
+                    "Name": "lblBonBet",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 20,
+                    "LabelText": "EFIH WIN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTM Avo.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 600.0,
+                      "Y": 17.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 255,
+                      "G": 255,
+                      "B": 255
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7416,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1371,
+                      "Y": 0.7714
+                    },
+                    "LeftMargin": 599.0,
+                    "RightMargin": 169.0,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 63,
+                    "ActionTag": 419965423,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 27.0
+                    },
+                    "Name": "lblWinBon",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "FontSize": 20,
+                    "LabelText": "GOLD BONUS",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTM Avo.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 750.0,
+                      "Y": 17.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 255,
+                      "G": 255,
+                      "B": 255
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7416,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1371,
+                      "Y": 0.7714
+                    },
+                    "LeftMargin": 599.0,
+                    "RightMargin": 169.0,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 63,
+                    "ActionTag": 419965423,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 27.0
+                    },
+                    "Name": "lblWinBonGold",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTM Avo.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 890,
+                      "Y": 17.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 43,
+                      "G": 193,
+                      "B": 217
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.9149,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0876,
+                      "Y": 0.7714
+                    },
+                    "LeftMargin": 775.2944,
+                    "RightMargin": 36.7056,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 64,
+                    "ActionTag": 912141176,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 27.0
+                    },
+                    "Name": "lblDetail",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 737633306,
+                "Size": {
+                  "X": 890.0,
+                  "Y": 35.0
+                },
+                "Name": "pnlTitle",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -873751049,
+            "Size": {
+              "X": 1117.0,
+              "Y": 690.0
+            },
+            "Name": "pnlContent",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "BomTanImg/Popup/board.png",
+        "BomTanImg/Popup/btn_close.png",
+        "BomTanImg/Popup/khung.png",
+        "BomTanImg/Popup/text_lsgiaodich.png",
+        "fonts/UTM Avo.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

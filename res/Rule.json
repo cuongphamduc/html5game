@@ -1,0 +1,314 @@
+{
+  "ID": "50038911-7655-40ad-9f63-b68b9212a333",
+  "Version": "2.3.4",
+  "Name": "Rule",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 667,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BomTanImg/Popup/board.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 368,
+            "Scale9OriginY": 227,
+            "Scale9Width": 381,
+            "Scale9Height": 236,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.8727,
+              "Y": 0.9583
+            },
+            "LeftMargin": 81.5,
+            "RightMargin": 81.5,
+            "TopMargin": 15.0,
+            "BottomMargin": 15.0,
+            "Tag": 127,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "BomTanImg/Popup/btn_close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1081.256,
+                  "Y": 658.74
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.968,
+                  "Y": 0.9547
+                },
+                "PreSize": {
+                  "X": 0.0627,
+                  "Y": 0.1
+                },
+                "LeftMargin": 1046.256,
+                "RightMargin": 0.744,
+                "TopMargin": -3.24,
+                "BottomMargin": 624.24,
+                "Tag": 128,
+                "ActionTag": 923510456,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 69.0
+                },
+                "Name": "btnClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "HorizontalType": "Align_HorizontalCenter",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 558.5,
+                  "Y": 300.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4348
+                },
+                "PreSize": {
+                  "X": 0.94,
+                  "Y": 0.7536
+                },
+                "LeftMargin": 33.5,
+                "RightMargin": 33.5,
+                "TopMargin": 130.0,
+                "BottomMargin": 40.0,
+                "Tag": 129,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "BomTanImg/Popup/thele.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 323,
+                    "Scale9OriginY": 447,
+                    "Scale9Width": 333,
+                    "Scale9Height": 462,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 525.0,
+                      "Y": 678.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9324,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 35.5,
+                    "RightMargin": 35.5,
+                    "Tag": 159,
+                    "ActionTag": -518795588,
+                    "Size": {
+                      "X": 979.0,
+                      "Y": 1356.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1893891949,
+                "Size": {
+                  "X": 1050.0,
+                  "Y": 520.0
+                },
+                "Name": "ListView_1",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "BomTanImg/Popup/text_thele.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 53,
+                "Scale9OriginY": 20,
+                "Scale9Width": 55,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 558.5,
+                  "Y": 620.9747
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9
+                },
+                "PreSize": {
+                  "X": 0.1441,
+                  "Y": 0.0884
+                },
+                "LeftMargin": 478.0,
+                "RightMargin": 478.0,
+                "TopMargin": 38.5253,
+                "BottomMargin": 590.4747,
+                "Tag": 19,
+                "ActionTag": -520226402,
+                "Size": {
+                  "X": 161.0,
+                  "Y": 61.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1440232612,
+            "Size": {
+              "X": 1117.0,
+              "Y": 690.0
+            },
+            "Name": "pnlContent",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "BomTanImg/Popup/board.png",
+        "BomTanImg/Popup/btn_close.png",
+        "BomTanImg/Popup/text_thele.png",
+        "BomTanImg/Popup/thele.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

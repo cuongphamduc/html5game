@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Popup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/res/openBoxImgs/Popup/Popup.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

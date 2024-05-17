@@ -1,0 +1,1176 @@
+{
+  "ID": "101ad63a-1c21-4e16-9721-71269a38cc09",
+  "Version": "2.3.4",
+  "Name": "BomTan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 20,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.0
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 66,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "BomTanImg/game_board.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 291,
+                "Scale9OriginY": 178,
+                "Scale9Width": 302,
+                "Scale9Height": 186,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 512.0,
+                  "Y": 295.5677
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.512,
+                  "Y": 0.4222
+                },
+                "PreSize": {
+                  "X": 0.884,
+                  "Y": 0.7743
+                },
+                "LeftMargin": 70.0,
+                "RightMargin": 46.0,
+                "TopMargin": 133.4323,
+                "BottomMargin": 24.5677,
+                "Tag": 25,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "BomTanImg/bg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 337,
+                    "Scale9OriginY": 230,
+                    "Scale9Width": 350,
+                    "Scale9Height": 239,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 430.0,
+                      "Y": 315.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4921,
+                      "Y": 0.5258
+                    },
+                    "PreSize": {
+                      "X": 1.1584,
+                      "Y": 1.2897
+                    },
+                    "LeftMargin": -77.0,
+                    "RightMargin": -63.0,
+                    "TopMargin": -92.5,
+                    "BottomMargin": -64.5,
+                    "Tag": 59,
+                    "ActionTag": -1558146019,
+                    "Size": {
+                      "X": 1024.0,
+                      "Y": 699.0
+                    },
+                    "Alpha": 216,
+                    "Name": "bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "BomTanImg/bon_board.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 337,
+                    "Scale9OriginY": 230,
+                    "Scale9Width": 350,
+                    "Scale9Height": 239,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 170.0,
+                      "Y": 625.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4921,
+                      "Y": 0.5258
+                    },
+                    "PreSize": {
+                      "X": 1.1584,
+                      "Y": 1.2897
+                    },
+                    "LeftMargin": -77.0,
+                    "RightMargin": -63.0,
+                    "TopMargin": -92.5,
+                    "BottomMargin": -64.5,
+                    "Tag": 59,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "Balanceaaaaaaaaaaaaaaaaaaaaaaaaaa ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/Happy School.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 125,
+                          "Y": 85
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.1678
+                        },
+                        "PreSize": {
+                          "X": 0.4548,
+                          "Y": 0.0886
+                        },
+                        "HorizontalEdge":"BothEdge",
+                        "LeftMargin": 258.4005,
+                        "RightMargin": 223.5995,
+                        "TopMargin": 427.0608,
+                        "BottomMargin": 66.9392,
+                        "Tag": 74,
+                        "ActionTag": -1468225322,
+                        "Size": {
+                          "X": 402.0,
+                          "Y": 45.0
+                        },
+                        "Name": "lbAccBalance",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 24,
+                        "LabelText": "1.000.000.000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/Happy School.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 125,
+                          "Y": 65
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 255,
+                          "G": 255,
+                          "B": 255
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5197,
+                          "Y": 0.1678
+                        },
+                        "PreSize": {
+                          "X": 0.4548,
+                          "Y": 0.0886
+                        },
+                        "LeftMargin": 258.4005,
+                        "RightMargin": 223.5995,
+                        "TopMargin": 427.0608,
+                        "BottomMargin": 66.9392,
+                        "Tag": 74,
+                        "ActionTag": -1468225322,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 48.0
+                        },
+                        "Name": "txtAccBalance",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 16,
+                        "LabelText": "EFIH",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/Happy School.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 125,
+                          "Y": 40
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.1678
+                        },
+                        "PreSize": {
+                          "X": 0.4548,
+                          "Y": 0.0886
+                        },
+                        "HorizontalEdge":"BothEdge",
+                        "LeftMargin": 258.4005,
+                        "RightMargin": 223.5995,
+                        "TopMargin": 427.0608,
+                        "BottomMargin": 66.9392,
+                        "Tag": 74,
+                        "ActionTag": -1468225322,
+                        "Size": {
+                          "X": 402.0,
+                          "Y": 45.0
+                        },
+                        "Name": "lbAccSymbol",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1558146019,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 100.0
+                    },
+                    "Alpha": 216,
+                    "Name": "board",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "BomTanImg/bon_board.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 337,
+                    "Scale9OriginY": 230,
+                    "Scale9Width": 350,
+                    "Scale9Height": 239,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 700.0,
+                      "Y": 625.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4921,
+                      "Y": 0.5258
+                    },
+                    "PreSize": {
+                      "X": 1.1584,
+                      "Y": 1.2897
+                    },
+                    "LeftMargin": -77.0,
+                    "RightMargin": -63.0,
+                    "TopMargin": -92.5,
+                    "BottomMargin": -64.5,
+                    "Tag": 59,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "Hash",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/Happy School.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 125,
+                          "Y": 85
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.1678
+                        },
+                        "PreSize": {
+                          "X": 0.4548,
+                          "Y": 0.0886
+                        },
+                        "HorizontalEdge":"BothEdge",
+                        "LeftMargin": 258.4005,
+                        "RightMargin": 223.5995,
+                        "TopMargin": 427.0608,
+                        "BottomMargin": 66.9392,
+                        "Tag": 74,
+                        "ActionTag": -1468225322,
+                        "Size": {
+                          "X": 402.0,
+                          "Y": 48.0
+                        },
+                        "Name": "lbJackpotBalance",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 24,
+                        "LabelText": "1.000.000.000jjjjjjjjjjjjjjjjjjjj",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/Happy School.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 125,
+                          "Y": 65
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 255,
+                          "G": 255,
+                          "B": 255
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5197,
+                          "Y": 0.1678
+                        },
+                        "PreSize": {
+                          "X": 0.4548,
+                          "Y": 0.0886
+                        },
+                        "LeftMargin": 258.4005,
+                        "RightMargin": 223.5995,
+                        "TopMargin": 427.0608,
+                        "BottomMargin": 66.9392,
+                        "Tag": 74,
+                        "ActionTag": -1468225322,
+                        "Size": {
+                          "X": 250.0,
+                          "Y": 48.0
+                        },
+                        "Name": "txtJackpot",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1558146019,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 100.0
+                    },
+                    "Alpha": 216,
+                    "Name": "board",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "                    ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/Happy School.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 450,
+                      "Y": 200
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 255,
+                      "G": 255,
+                      "B": 100
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5197,
+                      "Y": 0.1678
+                    },
+                    "PreSize": {
+                      "X": 0.4548,
+                      "Y": 0.0886
+                    },
+                    "LeftMargin": 258.4005,
+                    "RightMargin": 223.5995,
+                    "TopMargin": 427.0608,
+                    "BottomMargin": 66.9392,
+                    "Tag": 74,
+                    "ActionTag": -1468225322,
+                    "Size": {
+                      "X": 602.0,
+                      "Y": 48.0
+                    },
+                    "Name": "time_stamps",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "BomTanImg/btn_quay.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 221,
+                    "Scale9Height": 74,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 455,
+                      "Y": 150
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7729,
+                      "Y": 0.0517
+                    },
+                    "PreSize": {
+                      "X": 0.2839,
+                      "Y": 0.1771
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 557.7828,
+                    "RightMargin": 75.2172,
+                    "TopMargin": 465.9999,
+                    "BottomMargin": -19.9999,
+                    "Tag": 28,
+                    "ActionTag": 813585140,
+                    "Size": {
+                      "X": 176.0,
+                      "Y": 61.0
+                    },
+                    "Name": "btnSpin",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "BomTanImg/icon_history.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 55,
+                    "Scale9Height": 63,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 845.0,
+                      "Y": 520.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.69,
+                      "Y": 0.9594
+                    },
+                    "PreSize": {
+                      "X": 0.0962,
+                      "Y": 0.1568
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "LeftMargin": 567.5,
+                    "RightMargin": 231.5,
+                    "TopMargin": -20.5,
+                    "BottomMargin": 477.5,
+                    "Tag": 33,
+                    "ActionTag": 722127879,
+                    "Size": {
+                      "X": 85.0,
+                      "Y": 85.0
+                    },
+                    "Name": "btnHistory",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "BomTanImg/icon_help.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 55,
+                    "Scale9Height": 63,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 845.0,
+                      "Y": 445
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.871,
+                      "Y": 0.9594
+                    },
+                    "PreSize": {
+                      "X": 0.0962,
+                      "Y": 0.1568
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "LeftMargin": 727.5,
+                    "RightMargin": 71.5,
+                    "TopMargin": -20.4998,
+                    "BottomMargin": 477.4998,
+                    "Tag": 35,
+                    "ActionTag": 420621126,
+                    "Size": {
+                      "X": 85.0,
+                      "Y": 85.0
+                    },
+                    "Name": "btnHelp",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 147,
+                    "Scale9OriginY": 138,
+                    "Scale9Width": 154,
+                    "Scale9Height": 143,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 450,
+                      "Y": 420.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3415,
+                      "Y": 0.5111
+                    },
+                    "PreSize": {
+                      "X": 0.5068,
+                      "Y": 0.7731
+                    },
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 77.8881,
+                    "RightMargin": 358.1119,
+                    "TopMargin": 55.5,
+                    "BottomMargin": 67.5,
+                    "Tag": 14,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Lobby/imgBegin.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 99,
+                        "Scale9OriginY": 99,
+                        "Scale9Width": 105,
+                        "Scale9Height": 104,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 230,
+                          "Y": 150
+                        },
+                        "Scale": {
+                          "ScaleX": 0.6667,
+                          "ScaleY": 0.6667
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5152,
+                          "Y": 0.4923
+                        },
+                        "PreSize": {
+                          "X": 0.4662,
+                          "Y": 0.604
+                        },
+                        "LeftMargin": 183.3624,
+                        "RightMargin": 163.6376,
+                        "TopMargin": 102.8306,
+                        "BottomMargin": 95.1694,
+                        "Tag": 73,
+                        "ActionTag": 1482087820,
+                        "Size": {
+                          "X": 342.0,
+                          "Y": 344.0
+                        },
+                        "Name": "imgBegin",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -494088494,
+                    "Size": {
+                      "X": 448.0,
+                      "Y": 419.0
+                    },
+                    "Name": "pnlIconmain",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "Gold is not enough aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/Happy School.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 450.4005,
+                      "Y": 520.9392
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 255,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5197,
+                      "Y": 0.1678
+                    },
+                    "PreSize": {
+                      "X": 0.4548,
+                      "Y": 0.0886
+                    },
+                    "LeftMargin": 258.4005,
+                    "RightMargin": 223.5995,
+                    "TopMargin": 427.0608,
+                    "BottomMargin": 66.9392,
+                    "Tag": 74,
+                    "ActionTag": -1468225322,
+                    "Size": {
+                      "X": 602.0,
+                      "Y": 48.0
+                    },
+                    "Name": "notify_emptyMoney",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "BomTanImg/namegame.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 62,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 255,
+                    "Scale9Height": 35,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 433.1786,
+                      "Y": 635.123
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3656,
+                      "Y": 1.1109
+                    },
+                    "PreSize": {
+                      "X": 0.4287,
+                      "Y": 0.1863
+                    },
+                    "LeftMargin": 133.6786,
+                    "RightMargin": 371.3214,
+                    "TopMargin": -110.623,
+                    "BottomMargin": 551.623,
+                    "Tag": 61,
+                    "ActionTag": -243208564,
+                    "Size": {
+                      "X": 260.0,
+                      "Y": 51.0
+                    },
+                    "Name": "Image_1_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1773380836,
+                "Size": {
+                  "X": 858.0,
+                  "Y": 642.0
+                },
+                "Name": "pnlMain",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 82,
+                "Scale9OriginY": 143,
+                "Scale9Width": 87,
+                "Scale9Height": 150,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 920.0,
+                  "Y": 300.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.92,
+                  "Y": 0.4286
+                },
+                "PreSize": {
+                  "X": 0.251,
+                  "Y": 0.6229
+                },
+                "LeftMargin": 920.0,
+                "RightMargin": -171.0,
+                "TopMargin": 182.0,
+                "BottomMargin": 82.0,
+                "Tag": 94,
+                "Children": [
+                  {
+                    "FontSize": 27,
+                    "LabelText": "00:59:00",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTM AvoBold.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 116.5001,
+                      "Y": 119.952
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4641,
+                      "Y": 0.2751
+                    },
+                    "PreSize": {
+                      "X": 0.4781,
+                      "Y": 0.0917
+                    },
+                    "LeftMargin": 56.5001,
+                    "RightMargin": 74.4999,
+                    "TopMargin": 296.048,
+                    "BottomMargin": 99.952,
+                    "Tag": 95,
+                    "ActionTag": -1003390088,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 40.0
+                    },
+                    "Name": "lblTimeRemain",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 774429672,
+                "Size": {
+                  "X": 251.0,
+                  "Y": 436.0
+                },
+                "VisibleForFrame": false,
+                "Name": "pnlEvent",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 2088996964,
+            "Size": {
+              "X": 1000.0,
+              "Y": 700.0
+            },
+            "Name": "pnlContent",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1000.0,
+          "Y": 700.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "BomTanImg/bg.png",
+        "BomTanImg/bon_board.png",
+        "BomTanImg/btn_quay.png",
+        "BomTanImg/game_board.png",
+        "BomTanImg/namegame.png",
+        "fonts/number_blue/font.fnt",
+        "fonts/number_blue/font.png",
+        "fonts/UTM Avo.ttf",
+        "fonts/UTM AvoBold.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
