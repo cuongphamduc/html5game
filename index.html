@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <script src=“https://telegram.org/js/telegram-web-app.js”></script>
     <meta charset="utf-8">
     <title>CoinFlip Game</title>
     <link rel="icon" type="image/GIF" href="res/logo.png"/>
@@ -126,14 +127,6 @@ canvas {
 <!-- <script src="res/web3/dist/web3.min.js"></script> -->
 <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
 <canvas id="gameCanvas" width="480" height="720"></canvas>
-
-<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-login="samplebot" data-size="large" data-onauth="onTelegramAuth(user)" data-request-access="write"></script>
-<script type="text/javascript">
-  function onTelegramAuth(user) {
-    alert('Logged in as ' + user.first_name + ' ' + user.last_name + ' (' + user.id + (user.username ? ', @' + user.username : '') + ')');
-  }
-</script>
-<script>
     /* you can pass in options here */
     // var PleaseRotateOptions = {
     //     startOnPageLoad: true,
